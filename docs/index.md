@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2023-02-05**|**[[2302.02444v1](http://arxiv.org/abs/2302.02444v1)][code-na]Spatio-Temporal Point Process for Multiple Object Tracking**|Tao Wang et.al.||
 |**2022-12-21**|**[[2212.07368v2](http://arxiv.org/abs/2212.07368v2)][code-na]Reconstruction of Multivariate Sparse Signals from Mismatched Samples**|Taulant Koka et.al.||
 |**2022-12-12**|**[[2212.05861v1](http://arxiv.org/abs/2212.05861v1)][code-na]CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking**|Weihong Ren et.al.|End to end|
 |**2022-12-07**|**[[2212.03586v1](http://arxiv.org/abs/2212.03586v1)][**[code](https://github.com/BingfengYan/DS_OCSORT)**]Multiple Object Tracking Challenge Technical Report for Team MT_IoT**|Feng Yan et.al.||
