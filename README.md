@@ -26,7 +26,7 @@
 |**2022-12-03**|**[[2212.01568v1](http://arxiv.org/abs/2212.01568v1)][code-na]Generalizing Multiple Object Tracking to Unseen Domains by Introducing Natural Language Representation**|En Yu et.al.||
 |**2022-12-06**|**[[2211.14317v2](http://arxiv.org/abs/2211.14317v2)][code-na]Hard to Track Objects with Irregular Motions and Similar Appearances? Make It Easier by Buffering the Matching Space**|Fan Yang et.al.||
 |**2022-11-17**|**[[2211.08824v2](http://arxiv.org/abs/2211.08824v2)][code-na]SMILEtrack: SiMIlarity LEarning for Multiple Object Tracking**|Yu-Hsiang Wang et.al.|TBD|
-|**2022-11-14**|**[[2211.07173v1](http://arxiv.org/abs/2211.07173v1)][**[code](https://github.com/vghost2008/sportstrack)**]SportsTrack: An Innovative Method for Tracking Athletes in Sports Scenes**|Jie Wang et.al.||
+|**2023-02-08**|**[[2211.07173v2](http://arxiv.org/abs/2211.07173v2)][**[code](https://github.com/vghost2008/sportstrack)**]SportsTrack: An Innovative Method for Tracking Athletes in Sports Scenes**|Jie Wang et.al.||
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
