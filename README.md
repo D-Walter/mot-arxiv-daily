@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-02-28**|**[[2302.14589v1](http://arxiv.org/abs/2302.14589v1)][code-na]Focus On Details: Online Multi-object Tracking with Diverse Fine-grained Representation**|Hao Ren et.al.||
 |**2023-02-05**|**[[2302.02444v1](http://arxiv.org/abs/2302.02444v1)][code-na]Spatio-Temporal Point Process for Multiple Object Tracking**|Tao Wang et.al.||
 |**2022-12-21**|**[[2212.07368v2](http://arxiv.org/abs/2212.07368v2)][code-na]Reconstruction of Multivariate Sparse Signals from Mismatched Samples**|Taulant Koka et.al.||
 |**2022-12-12**|**[[2212.05861v1](http://arxiv.org/abs/2212.05861v1)][code-na]CountingMOT: Joint Counting, Detection and Re-Identification for Multiple Object Tracking**|Weihong Ren et.al.|End to end|
