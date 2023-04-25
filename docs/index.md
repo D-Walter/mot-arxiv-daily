@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2023-04-21**|**[[2304.11262v1](http://arxiv.org/abs/2304.11262v1)][code-na]Stochastic MPC Based Attacks on Object Tracking in Autonomous Driving Systems**|Sourav Sinha et.al.||
+|**2023-04-21**|**[[2304.11233v1](http://arxiv.org/abs/2304.11233v1)][code-na]On the Value of Online Learning for Radar Waveform Selection**|Charles E. Thornton et.al.||
 |**2023-04-17**|**[[2304.08408v1](http://arxiv.org/abs/2304.08408v1)][code-na]OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li et.al.||
 |**2023-04-16**|**[[2304.07705v1](http://arxiv.org/abs/2304.07705v1)][code-na]Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang et.al.||
 |**2023-03-30**|**[[2303.17228v1](http://arxiv.org/abs/2303.17228v1)][**[code](https://github.com/yuzhms/streaming-video-model)**]Streaming Video Model**|Yucheng Zhao et.al.||
