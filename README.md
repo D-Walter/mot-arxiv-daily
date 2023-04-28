@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2023.04.27
+## Updated on 2023.04.28
 
 <details>
   <summary>Table of Contents</summary>
@@ -21,7 +21,7 @@
 |**2023-04-21**|**[[2304.11262v1](http://arxiv.org/abs/2304.11262v1)][code-na]Stochastic MPC Based Attacks on Object Tracking in Autonomous Driving Systems**|Sourav Sinha et.al.||
 |**2023-04-21**|**[[2304.11233v1](http://arxiv.org/abs/2304.11233v1)][code-na]On the Value of Online Learning for Radar Waveform Selection**|Charles E. Thornton et.al.||
 |**2023-04-17**|**[[2304.08408v1](http://arxiv.org/abs/2304.08408v1)][code-na]OVTrack: Open-Vocabulary Multiple Object Tracking**|Siyuan Li et.al.||
-|**2023-04-16**|**[[2304.07705v1](http://arxiv.org/abs/2304.07705v1)][code-na]Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang et.al.||
+|**2023-04-27**|**[[2304.07705v2](http://arxiv.org/abs/2304.07705v2)][code-na]Handling Heavy Occlusion in Dense Crowd Tracking by Focusing on the Heads**|Yu Zhang et.al.||
 |**2023-03-30**|**[[2303.17228v1](http://arxiv.org/abs/2303.17228v1)][**[code](https://github.com/yuzhms/streaming-video-model)**]Streaming Video Model**|Yucheng Zhao et.al.||
 |**2023-03-27**|**[[2303.15414v1](http://arxiv.org/abs/2303.15414v1)][**[code](https://github.com/jiaweihe1996/GMTracker)**]Learnable Graph Matching: A Practical Paradigm for Data Association**|Jiawei He et.al.|End to end|
 |**2023-03-25**|**[[2303.14346v1](http://arxiv.org/abs/2303.14346v1)][code-na]Collaborative Multi-Object Tracking with Conformal Uncertainty Propagation**|Sanbao Su et.al.||
@@ -39,7 +39,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20230427>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230428>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
