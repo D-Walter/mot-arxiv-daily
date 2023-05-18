@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-05-17**|**[[2305.09981v1](http://arxiv.org/abs/2305.09981v1)][code-na]S $^3$ Track: Self-supervised Tracking with Soft Assignment Flow**|Fatemeh Azimi et.al.|End to end|
 |**2023-05-08**|**[[2305.05062v1](http://arxiv.org/abs/2305.05062v1)][code-na]Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing**|Hyeokhyen Kwon et.al.||
 |**2023-05-01**|**[[2304.11262v2](http://arxiv.org/abs/2304.11262v2)][code-na]Stochastic MPC Based Attacks on Object Tracking in Autonomous Driving Systems**|Sourav Sinha et.al.||
 |**2023-04-21**|**[[2304.11233v1](http://arxiv.org/abs/2304.11233v1)][code-na]On the Value of Online Learning for Radar Waveform Selection**|Charles E. Thornton et.al.||
