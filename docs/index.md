@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2023-06-23**|**[[2306.13518v1](http://arxiv.org/abs/2306.13518v1)][**[code](https://github.com/nanh5837/lettucemots)**]Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.||
 |**2023-06-16**|**[[2306.09613v1](http://arxiv.org/abs/2306.09613v1)][code-na]UTOPIA: Unconstrained Tracking Objects without Preliminary Examination via Cross-Domain Adaptation**|Pha Nguyen et.al.||
 |**2023-06-08**|**[[2306.05416v1](http://arxiv.org/abs/2306.05416v1)][code-na]Tracking Objects with 3D Representation from Videos**|Jiawei He et.al.||
 |**2023-06-08**|**[[2306.05238v1](http://arxiv.org/abs/2306.05238v1)][**[code](https://github.com/hustvl/sparsetrack)**]SparseTrack: Multi-Object Tracking by Performing Scene Decomposition based on Pseudo-Depth**|Zelin Liu et.al.||
