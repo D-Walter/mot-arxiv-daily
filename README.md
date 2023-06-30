@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-06-29**|**[[2306.17000v1](http://arxiv.org/abs/2306.17000v1)][code-na]MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|End to end|
 |**2023-06-26**|**[[2306.13518v2](http://arxiv.org/abs/2306.13518v2)][**[code](https://github.com/nanh5837/lettucemots)**]Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.||
 |**2023-06-16**|**[[2306.09613v1](http://arxiv.org/abs/2306.09613v1)][code-na]UTOPIA: Unconstrained Tracking Objects without Preliminary Examination via Cross-Domain Adaptation**|Pha Nguyen et.al.||
 |**2023-06-08**|**[[2306.05416v1](http://arxiv.org/abs/2306.05416v1)][code-na]Tracking Objects with 3D Representation from Videos**|Jiawei He et.al.||
