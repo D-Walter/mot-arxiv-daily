@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-08-15**|**[[2308.07537v1](http://arxiv.org/abs/2308.07537v1)][code-na]AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes**|Yunhao Li et.al.||
 |**2023-08-15**|**[[2308.07207v2](http://arxiv.org/abs/2308.07207v2)][code-na]FOLT: Fast Multiple Object Tracking from UAV-captured Videos Based on Optical Flow**|Mufeng Yao et.al.||
 |**2023-07-31**|**[[2307.15700v2](http://arxiv.org/abs/2307.15700v2)][**[code](https://github.com/mcg-nju/memotr)**]MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.||
 |**2023-06-29**|**[[2306.17000v1](http://arxiv.org/abs/2306.17000v1)][code-na]MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|End to end|
