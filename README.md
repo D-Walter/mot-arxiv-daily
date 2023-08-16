@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2023.08.15
+## Updated on 2023.08.16
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2023-08-14**|**[[2308.07207v1](http://arxiv.org/abs/2308.07207v1)][code-na]FOLT: Fast Multiple Object Tracking from UAV-captured Videos Based on Optical Flow**|Mufeng Yao et.al.||
+|**2023-08-15**|**[[2308.07207v2](http://arxiv.org/abs/2308.07207v2)][code-na]FOLT: Fast Multiple Object Tracking from UAV-captured Videos Based on Optical Flow**|Mufeng Yao et.al.||
 |**2023-07-31**|**[[2307.15700v2](http://arxiv.org/abs/2307.15700v2)][**[code](https://github.com/mcg-nju/memotr)**]MeMOTR: Long-Term Memory-Augmented Transformer for Multi-Object Tracking**|Ruopeng Gao et.al.||
 |**2023-06-29**|**[[2306.17000v1](http://arxiv.org/abs/2306.17000v1)][code-na]MotionTrack: End-to-End Transformer-based Multi-Object Tracing with LiDAR-Camera Fusion**|Ce Zhang et.al.|End to end|
 |**2023-06-26**|**[[2306.13518v2](http://arxiv.org/abs/2306.13518v2)][**[code](https://github.com/nanh5837/lettucemots)**]Segmentation and Tracking of Vegetable Plants by Exploiting Vegetable Shape Feature for Precision Spray of Agricultural Robots**|Nan Hu et.al.||
@@ -52,7 +52,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20230815>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230816>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
