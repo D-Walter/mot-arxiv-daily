@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2023.08.22
+## Updated on 2023.08.23
 
 <details>
   <summary>Table of Contents</summary>
@@ -31,7 +31,7 @@ layout: default
 |**2023-06-08**|**[[2306.05416v1](http://arxiv.org/abs/2306.05416v1)][code-na]Tracking Objects with 3D Representation from Videos**|Jiawei He et.al.||
 |**2023-06-08**|**[[2306.05238v1](http://arxiv.org/abs/2306.05238v1)][**[code](https://github.com/hustvl/sparsetrack)**]SparseTrack: Multi-Object Tracking by Performing Scene Decomposition based on Pseudo-Depth**|Zelin Liu et.al.||
 |**2023-06-05**|**[[2306.02585v1](http://arxiv.org/abs/2306.02585v1)][code-na]MotionTrack: Learning Motion Predictor for Multiple Object Tracking**|Changcheng Xiao et.al.||
-|**2023-05-28**|**[[2305.17648v1](http://arxiv.org/abs/2305.17648v1)][code-na]Z-GMOT: Zero-shot Generic Multiple Object Tracking**|Kim Hoang Tran et.al.||
+|**2023-08-21**|**[[2305.17648v2](http://arxiv.org/abs/2305.17648v2)][code-na]Z-GMOT: Zero-shot Generic Multiple Object Tracking**|Kim Hoang Tran et.al.||
 |**2023-05-26**|**[[2305.16968v1](http://arxiv.org/abs/2305.16968v1)][code-na]Linear Object Detection in Document Images using Multiple Object Tracking**|Philippe Bernet et.al.||
 |**2023-05-22**|**[[2305.13495v1](http://arxiv.org/abs/2305.13495v1)][code-na]Type-to-Track: Retrieve Any Object via Prompt-based Tracking**|Pha Nguyen et.al.||
 |**2023-05-17**|**[[2305.09981v1](http://arxiv.org/abs/2305.09981v1)][code-na]S $^3$ Track: Self-supervised Tracking with Soft Assignment Flow**|Fatemeh Azimi et.al.|End to end|
@@ -57,7 +57,7 @@ layout: default
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20230822>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230823>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
