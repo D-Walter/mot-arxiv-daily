@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2023-09-06**|**[[2309.02975v1](http://arxiv.org/abs/2309.02975v1)][code-na]FishMOT: A Simple and Effective Method for Fish Tracking Based on IoU Matching**|Shuo Liu et.al.||
 |**2023-09-02**|**[[2309.00942v1](http://arxiv.org/abs/2309.00942v1)][code-na]Tracking without Label: Unsupervised Multiple Object Tracking via Contrastive Similarity Learning**|Sha Meng et.al.||
 |**2023-09-05**|**[[2309.00233v2](http://arxiv.org/abs/2309.00233v2)][code-na]Object-Centric Multiple Object Tracking**|Zixu Zhao et.al.||
 |**2023-08-15**|**[[2308.07537v1](http://arxiv.org/abs/2308.07537v1)][code-na]AttMOT: Improving Multiple-Object Tracking by Introducing Auxiliary Pedestrian Attributes**|Yunhao Li et.al.||
