@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2023.09.28
+## Updated on 2023.09.29
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2023-09-27**|**[[2309.15411v1](http://arxiv.org/abs/2309.15411v1)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
+|**2023-09-28**|**[[2309.15411v2](http://arxiv.org/abs/2309.15411v2)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
 |**2023-09-18**|**[[2309.09737v1](http://arxiv.org/abs/2309.09737v1)][code-na]Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.||
 |**2023-09-12**|**[[2309.06006v1](http://arxiv.org/abs/2309.06006v1)][**[code](https://github.com/lRomul/ball-action-spotting)**]SoccerNet 2023 Challenges Results**|Anthony Cioppa et.al.|End to end|
 |**2023-09-09**|**[[2309.04682v1](http://arxiv.org/abs/2309.04682v1)][code-na]DeNoising-MOT: Towards Multiple Object Tracking with Severe Occlusions**|Teng Fu et.al.|End to end|
@@ -60,7 +60,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20230928>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20230929>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
