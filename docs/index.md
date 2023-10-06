@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2023.10.05
+## Updated on 2023.10.06
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2023-10-04**|**[[2310.03006v1](http://arxiv.org/abs/2310.03006v1)][code-na]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
+|**2023-10-05**|**[[2310.03006v2](http://arxiv.org/abs/2310.03006v2)][**[code](https://github.com/BoSmallEar/COOLer)**]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
 |**2023-10-03**|**[[2310.01926v1](http://arxiv.org/abs/2310.01926v1)][code-na]DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.||
 |**2023-09-28**|**[[2309.15411v2](http://arxiv.org/abs/2309.15411v2)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
 |**2023-09-18**|**[[2309.09737v1](http://arxiv.org/abs/2309.09737v1)][code-na]Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.||
@@ -66,7 +66,7 @@ layout: default
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20231005>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20231006>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
