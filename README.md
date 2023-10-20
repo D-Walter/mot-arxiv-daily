@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-10-19**|**[[2310.12407v1](http://arxiv.org/abs/2310.12407v1)][code-na]Classification-Aided Robust Multiple Target Tracking Using Neural Enhanced Message Passing**|Xianglong Bai et.al.||
 |**2023-10-05**|**[[2310.03006v2](http://arxiv.org/abs/2310.03006v2)][**[code](https://github.com/BoSmallEar/COOLer)**]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
 |**2023-10-03**|**[[2310.01926v1](http://arxiv.org/abs/2310.01926v1)][**[code](https://github.com/mattiasegu/darth)**]DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.||
 |**2023-09-28**|**[[2309.15411v2](http://arxiv.org/abs/2309.15411v2)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
