@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-10-26**|**[[2310.17170v1](http://arxiv.org/abs/2310.17170v1)][code-na]MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR**|Liao Pan et.al.|End to end|
 |**2023-10-19**|**[[2310.12407v1](http://arxiv.org/abs/2310.12407v1)][code-na]Classification-Aided Robust Multiple Target Tracking Using Neural Enhanced Message Passing**|Xianglong Bai et.al.||
 |**2023-10-05**|**[[2310.03006v2](http://arxiv.org/abs/2310.03006v2)][**[code](https://github.com/BoSmallEar/COOLer)**]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
 |**2023-10-03**|**[[2310.01926v1](http://arxiv.org/abs/2310.01926v1)][**[code](https://github.com/mattiasegu/darth)**]DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.||
