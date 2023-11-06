@@ -26,7 +26,7 @@ layout: default
 |**2023-10-19**|**[[2310.12407v1](http://arxiv.org/abs/2310.12407v1)][code-na]Classification-Aided Robust Multiple Target Tracking Using Neural Enhanced Message Passing**|Xianglong Bai et.al.||
 |**2023-10-05**|**[[2310.03006v2](http://arxiv.org/abs/2310.03006v2)][**[code](https://github.com/BoSmallEar/COOLer)**]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
 |**2023-10-03**|**[[2310.01926v1](http://arxiv.org/abs/2310.01926v1)][**[code](https://github.com/mattiasegu/darth)**]DARTH: Holistic Test-time Adaptation for Multiple Object Tracking**|Mattia Segu et.al.||
-|**2023-09-28**|**[[2309.15411v2](http://arxiv.org/abs/2309.15411v2)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
+|**2023-11-03**|**[[2309.15411v3](http://arxiv.org/abs/2309.15411v3)][code-na]3D Multiple Object Tracking on Autonomous Driving: A Literature Review**|Peng Zhang et.al.||
 |**2023-09-18**|**[[2309.09737v1](http://arxiv.org/abs/2309.09737v1)][code-na]Moving Object Detection and Tracking with 4D Radar Point Cloud**|Zhijun Pan et.al.||
 |**2023-09-12**|**[[2309.06006v1](http://arxiv.org/abs/2309.06006v1)][**[code](https://github.com/lRomul/ball-action-spotting)**]SoccerNet 2023 Challenges Results**|Anthony Cioppa et.al.|End to end|
 |**2023-09-09**|**[[2309.04682v1](http://arxiv.org/abs/2309.04682v1)][code-na]DeNoising-MOT: Towards Multiple Object Tracking with Severe Occlusions**|Teng Fu et.al.|End to end|
