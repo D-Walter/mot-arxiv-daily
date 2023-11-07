@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2023-11-06**|**[[2311.03030v1](http://arxiv.org/abs/2311.03030v1)][code-na]Resilient Mobile Multi-Target Surveillance Using Multi-Hop Autonomous UAV Networks for Extended Lifetime**|Abdulsamet Dağaşan et.al.||
+|**2023-11-05**|**[[2311.02572v1](http://arxiv.org/abs/2311.02572v1)][code-na]Multiple Object Tracking based on Occlusion-Aware Embedding Consistency Learning**|Yaoqi Hu et.al.|JDE|
 |**2023-10-26**|**[[2310.17170v1](http://arxiv.org/abs/2310.17170v1)][code-na]MO-YOLO: End-to-End Multiple-Object Tracking Method with YOLO and MOTR**|Liao Pan et.al.|End to end|
 |**2023-10-19**|**[[2310.12407v1](http://arxiv.org/abs/2310.12407v1)][code-na]Classification-Aided Robust Multiple Target Tracking Using Neural Enhanced Message Passing**|Xianglong Bai et.al.||
 |**2023-10-05**|**[[2310.03006v2](http://arxiv.org/abs/2310.03006v2)][**[code](https://github.com/BoSmallEar/COOLer)**]COOLer: Class-Incremental Learning for Appearance-Based Multiple Object Tracking**|Zhizheng Liu et.al.||
