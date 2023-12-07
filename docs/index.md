@@ -22,7 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
-|**2023-12-04**|**[[2312.01650v1](http://arxiv.org/abs/2312.01650v1)][**[code](https://github.com/linh-gist/AdaptConfByteTrack)**]Adaptive Confidence Threshold for ByteTrack in Multi-Object Tracking**|Linh Van Ma et.al.||
+|**2023-12-06**|**[[2312.01650v2](http://arxiv.org/abs/2312.01650v2)][**[code](https://github.com/linh-gist/AdaptConfByteTrack)**]Adaptive Confidence Threshold for ByteTrack in Multi-Object Tracking**|Linh Van Ma et.al.||
 |**2023-11-29**|**[[2311.17656v1](http://arxiv.org/abs/2311.17656v1)][**[code](https://github.com/ostadabbas/multiple-toddler-tracking)**]Multiple Toddler Tracking in Indoor Videos**|Somaieh Amraee et.al.||
 |**2023-11-06**|**[[2311.03030v1](http://arxiv.org/abs/2311.03030v1)][code-na]Resilient Mobile Multi-Target Surveillance Using Multi-Hop Autonomous UAV Networks for Extended Lifetime**|Abdulsamet Dağaşan et.al.||
 |**2023-11-05**|**[[2311.02572v1](http://arxiv.org/abs/2311.02572v1)][code-na]Multiple Object Tracking based on Occlusion-Aware Embedding Consistency Learning**|Yaoqi Hu et.al.|JDE|
