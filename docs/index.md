@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-01-04**|**[[2401.10269v1](http://arxiv.org/abs/2401.10269v1)][code-na]Robust Multi-Sensor Multi-Target Tracking Using Possibility Labeled Multi-Bernoulli Filter**|Han Cai et.al.||
 |**2023-12-18**|**[[2312.10922v1](http://arxiv.org/abs/2312.10922v1)][code-na]NTrack: A Multiple-Object Tracker and Dataset for Infield Cotton Boll Counting**|Md Ahmed Al Muzaddid et.al.||
 |**2023-12-14**|**[[2312.08951v1](http://arxiv.org/abs/2312.08951v1)][code-na]Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking**|Yan Gao et.al.|End to end|
 |**2023-12-06**|**[[2312.01650v2](http://arxiv.org/abs/2312.01650v2)][**[code](https://github.com/linh-gist/AdaptConfByteTrack)**]Adaptive Confidence Threshold for ByteTrack in Multi-Object Tracking**|Linh Van Ma et.al.||
