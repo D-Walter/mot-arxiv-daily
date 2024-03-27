@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-03-25**|**[[2403.16848v1](http://arxiv.org/abs/2403.16848v1)][**[code](https://github.com/MCG-NJU/MOTIP)**]Multiple Object Tracking as ID Prediction**|Ruopeng Gao et.al.|End to end|
 |**2024-03-23**|**[[2403.15712v1](http://arxiv.org/abs/2403.15712v1)][**[code](https://github.com/pholypeng/pnas-mot)**]PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search**|Chensheng Peng et.al.||
 |**2024-03-07**|**[[2403.04700v1](http://arxiv.org/abs/2403.04700v1)][**[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**]Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.||
 |**2024-03-20**|**[[2403.02075v2](http://arxiv.org/abs/2403.02075v2)][code-na]DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction**|Weiyi Lv et.al.|TBD|
