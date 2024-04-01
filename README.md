@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-03-29**|**[[2403.20225v1](http://arxiv.org/abs/2403.20225v1)][code-na]MTMMC: A Large-Scale Real-World Multi-Modal Camera Tracking Benchmark**|Sanghyun Woo et.al.||
 |**2024-03-27**|**[[2403.18908v1](http://arxiv.org/abs/2403.18908v1)][code-na]Enhancing Multiple Object Tracking Accuracy via Quantum Annealing**|Yasuyuki Ihara et.al.||
 |**2024-03-25**|**[[2403.16848v1](http://arxiv.org/abs/2403.16848v1)][**[code](https://github.com/MCG-NJU/MOTIP)**]Multiple Object Tracking as ID Prediction**|Ruopeng Gao et.al.|End to end|
 |**2024-03-23**|**[[2403.15712v1](http://arxiv.org/abs/2403.15712v1)][**[code](https://github.com/pholypeng/pnas-mot)**]PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search**|Chensheng Peng et.al.||
