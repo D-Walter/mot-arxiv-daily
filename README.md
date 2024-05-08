@@ -26,6 +26,7 @@
 |**2024-03-07**|**[[2403.04700v1](http://arxiv.org/abs/2403.04700v1)][**[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**]Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.||
 |**2024-03-20**|**[[2403.02075v2](http://arxiv.org/abs/2403.02075v2)][code-na]DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction**|Weiyi Lv et.al.|TBD|
 |**2024-01-04**|**[[2401.10269v1](http://arxiv.org/abs/2401.10269v1)][code-na]Robust Multi-Sensor Multi-Target Tracking Using Possibility Labeled Multi-Bernoulli Filter**|Han Cai et.al.||
+|**2024-05-07**|**[[2312.17641v2](http://arxiv.org/abs/2312.17641v2)][code-na]Motion State: A New Benchmark Multiple Object Tracking**|Yang Feng et.al.||
 |**2023-12-18**|**[[2312.10922v1](http://arxiv.org/abs/2312.10922v1)][code-na]NTrack: A Multiple-Object Tracker and Dataset for Infield Cotton Boll Counting**|Md Ahmed Al Muzaddid et.al.||
 |**2023-12-14**|**[[2312.08951v1](http://arxiv.org/abs/2312.08951v1)][code-na]Multi-Scene Generalized Trajectory Global Graph Solver with Composite Nodes for Multiple Object Tracking**|Yan Gao et.al.|End to end|
 |**2023-12-06**|**[[2312.01650v2](http://arxiv.org/abs/2312.01650v2)][**[code](https://github.com/linh-gist/AdaptConfByteTrack)**]Adaptive Confidence Threshold for ByteTrack in Multi-Object Tracking**|Linh Van Ma et.al.||
