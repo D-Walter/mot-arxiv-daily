@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.05.26
+## Updated on 2024.05.27
 
 <details>
   <summary>Table of Contents</summary>
@@ -29,7 +29,7 @@ layout: default
 |**2024-03-27**|**[[2403.18908v1](http://arxiv.org/abs/2403.18908v1)][code-na]Enhancing Multiple Object Tracking Accuracy via Quantum Annealing**|Yasuyuki Ihara et.al.||
 |**2024-03-25**|**[[2403.16848v1](http://arxiv.org/abs/2403.16848v1)][**[code](https://github.com/MCG-NJU/MOTIP)**]Multiple Object Tracking as ID Prediction**|Ruopeng Gao et.al.|End to end|
 |**2024-03-23**|**[[2403.15712v1](http://arxiv.org/abs/2403.15712v1)][**[code](https://github.com/pholypeng/pnas-mot)**]PNAS-MOT: Multi-Modal Object Tracking with Pareto Neural Architecture Search**|Chensheng Peng et.al.||
-|**2024-03-07**|**[[2403.04700v1](http://arxiv.org/abs/2403.04700v1)][**[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**]Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.||
+|**2024-05-24**|**[[2403.04700v2](http://arxiv.org/abs/2403.04700v2)][**[code](https://github.com/chen-si-jia/Trajectory-Long-tail-Distribution-for-MOT)**]Delving into the Trajectory Long-tail Distribution for Muti-object Tracking**|Sijia Chen et.al.||
 |**2024-03-20**|**[[2403.02075v2](http://arxiv.org/abs/2403.02075v2)][code-na]DiffMOT: A Real-time Diffusion-based Multiple Object Tracker with Non-linear Prediction**|Weiyi Lv et.al.|TBD|
 |**2024-01-04**|**[[2401.10269v1](http://arxiv.org/abs/2401.10269v1)][code-na]Robust Multi-Sensor Multi-Target Tracking Using Possibility Labeled Multi-Bernoulli Filter**|Han Cai et.al.||
 |**2024-05-07**|**[[2312.17641v2](http://arxiv.org/abs/2312.17641v2)][code-na]Motion State: A New Benchmark Multiple Object Tracking**|Yang Feng et.al.||
@@ -85,7 +85,7 @@ layout: default
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20240526>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240527>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
