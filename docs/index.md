@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-05-27**|**[[2405.17698v1](http://arxiv.org/abs/2405.17698v1)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
 |**2024-05-24**|**[[2405.15700v1](http://arxiv.org/abs/2405.15700v1)][**[code](https://github.com/weigertlab/trackastra)**]Trackastra: Transformer-based cell tracking for live-cell microscopy**|Benjamin Gallusser et.al.||
 |**2024-05-27**|**[[2405.07272v2](http://arxiv.org/abs/2405.07272v2)][code-na]MAML MOT: Multiple Object Tracking based on Meta-Learning**|Jiayi Chen et.al.||
 |**2024-05-08**|**[[2405.05210v1](http://arxiv.org/abs/2405.05210v1)][**[code](https://github.com/mit-acl/motlee)**]MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.||
