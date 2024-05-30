@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.05.29
+## Updated on 2024.05.30
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,7 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
-|**2024-05-27**|**[[2405.17698v1](http://arxiv.org/abs/2405.17698v1)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
+|**2024-05-29**|**[[2405.17698v2](http://arxiv.org/abs/2405.17698v2)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
 |**2024-05-24**|**[[2405.15700v1](http://arxiv.org/abs/2405.15700v1)][**[code](https://github.com/weigertlab/trackastra)**]Trackastra: Transformer-based cell tracking for live-cell microscopy**|Benjamin Gallusser et.al.||
 |**2024-05-27**|**[[2405.07272v2](http://arxiv.org/abs/2405.07272v2)][code-na]MAML MOT: Multiple Object Tracking based on Meta-Learning**|Jiayi Chen et.al.||
 |**2024-05-08**|**[[2405.05210v1](http://arxiv.org/abs/2405.05210v1)][**[code](https://github.com/mit-acl/motlee)**]MOTLEE: Collaborative Multi-Object Tracking Using Temporal Consistency for Neighboring Robot Frame Alignment**|Mason B. Peterson et.al.||
@@ -83,7 +83,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20240529>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240530>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
