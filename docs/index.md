@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-06-04**|**[[2406.02147v1](http://arxiv.org/abs/2406.02147v1)][code-na]UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|End to end|
 |**2024-06-03**|**[[2405.17698v3](http://arxiv.org/abs/2405.17698v3)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
 |**2024-05-24**|**[[2405.15700v1](http://arxiv.org/abs/2405.15700v1)][**[code](https://github.com/weigertlab/trackastra)**]Trackastra: Transformer-based cell tracking for live-cell microscopy**|Benjamin Gallusser et.al.||
 |**2024-05-27**|**[[2405.07272v2](http://arxiv.org/abs/2405.07272v2)][code-na]MAML MOT: Multiple Object Tracking based on Meta-Learning**|Jiayi Chen et.al.||
