@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-06-09**|**[[2406.05810v1](http://arxiv.org/abs/2406.05810v1)][code-na]ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.||
+|**2024-06-09**|**[[2406.05800v1](http://arxiv.org/abs/2406.05800v1)][code-na]SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.||
 |**2024-06-06**|**[[2406.04221v1](http://arxiv.org/abs/2406.04221v1)][**[code](https://github.com/siyuanliii/masa)**]Matching Anything by Segmenting Anything**|Siyuan Li et.al.||
 |**2024-06-04**|**[[2406.02147v1](http://arxiv.org/abs/2406.02147v1)][code-na]UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|End to end|
 |**2024-06-03**|**[[2405.17698v3](http://arxiv.org/abs/2405.17698v3)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
