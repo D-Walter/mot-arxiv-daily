@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-07-05**|**[[2407.04249v1](http://arxiv.org/abs/2407.04249v1)][code-na]FeatureSORT: Essential Features for Effective Tracking**|Hamidreza Hashempoor et.al.||
 |**2024-06-09**|**[[2406.05810v1](http://arxiv.org/abs/2406.05810v1)][code-na]ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.||
 |**2024-06-09**|**[[2406.05800v1](http://arxiv.org/abs/2406.05800v1)][code-na]SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.||
 |**2024-06-06**|**[[2406.04221v1](http://arxiv.org/abs/2406.04221v1)][**[code](https://github.com/siyuanliii/masa)**]Matching Anything by Segmenting Anything**|Siyuan Li et.al.||
