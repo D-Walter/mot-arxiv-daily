@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-07-17**|**[[2407.12614v1](http://arxiv.org/abs/2407.12614v1)][code-na]Strawberry detection and counting based on YOLOv7 pruning and information based tracking algorithm**|Shiyu Liu et.al.||
 |**2024-07-15**|**[[2407.10485v1](http://arxiv.org/abs/2407.10485v1)][code-na]Effective Motion Modeling for UAV-platform Multiple Object Tracking with Re-Margin Loss**|Mufeng Yao et.al.||
 |**2024-07-05**|**[[2407.04249v1](http://arxiv.org/abs/2407.04249v1)][code-na]FeatureSORT: Essential Features for Effective Tracking**|Hamidreza Hashempoor et.al.||
 |**2024-06-09**|**[[2406.05810v1](http://arxiv.org/abs/2406.05810v1)][code-na]ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.||
