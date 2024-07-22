@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.07.21
+## Updated on 2024.07.22
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,7 +22,7 @@
 |**2024-07-15**|**[[2407.10485v1](http://arxiv.org/abs/2407.10485v1)][code-na]Effective Motion Modeling for UAV-platform Multiple Object Tracking with Re-Margin Loss**|Mufeng Yao et.al.||
 |**2024-07-05**|**[[2407.04249v1](http://arxiv.org/abs/2407.04249v1)][code-na]FeatureSORT: Essential Features for Effective Tracking**|Hamidreza Hashempoor et.al.||
 |**2024-06-09**|**[[2406.05810v1](http://arxiv.org/abs/2406.05810v1)][code-na]ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.||
-|**2024-06-09**|**[[2406.05800v1](http://arxiv.org/abs/2406.05800v1)][code-na]SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.||
+|**2024-07-19**|**[[2406.05800v2](http://arxiv.org/abs/2406.05800v2)][code-na]SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.||
 |**2024-06-06**|**[[2406.04221v1](http://arxiv.org/abs/2406.04221v1)][**[code](https://github.com/siyuanliii/masa)**]Matching Anything by Segmenting Anything**|Siyuan Li et.al.||
 |**2024-06-04**|**[[2406.02147v1](http://arxiv.org/abs/2406.02147v1)][code-na]UA-Track: Uncertainty-Aware End-to-End 3D Multi-Object Tracking**|Lijun Zhou et.al.|End to end|
 |**2024-06-03**|**[[2405.17698v3](http://arxiv.org/abs/2405.17698v3)][code-na]BaboonLand Dataset: Tracking Primates in the Wild and Automating Behaviour Recognition from Drone Videos**|Isla Duporge et.al.||
@@ -90,7 +90,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20240721>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240722>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
