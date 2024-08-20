@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-08-17**|**[[2408.09191v1](http://arxiv.org/abs/2408.09191v1)][code-na]GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.||
+|**2024-08-17**|**[[2408.09178v1](http://arxiv.org/abs/2408.09178v1)][code-na]MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**|Changcheng Xiao et.al.||
 |**2024-08-02**|**[[2408.00969v1](http://arxiv.org/abs/2408.00969v1)][**[code](https://github.com/wqw123wqw/pftrack)**]Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.||
 |**2024-08-05**|**[[2407.18288v2](http://arxiv.org/abs/2407.18288v2)][**[code](https://github.com/NissaFaber/Thesis_repo)**]Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT**|Niels G. Faber et.al.||
 |**2024-07-21**|**[[2407.15199v1](http://arxiv.org/abs/2407.15199v1)][**[code](https://github.com/cuppp1998/360_object_tracking)**]Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.||
