@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-08-23**|**[[2408.13003v1](http://arxiv.org/abs/2408.13003v1)][**[code](https://github.com/vukasin-stanojevic/BoostTrack)**]BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al.||
 |**2024-08-21**|**[[2408.11571v1](http://arxiv.org/abs/2408.11571v1)][**[code](https://github.com/celltrackingchallenge/py-ctcmetrics)**]CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.||
 |**2024-08-17**|**[[2408.09191v1](http://arxiv.org/abs/2408.09191v1)][code-na]GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.||
 |**2024-08-17**|**[[2408.09178v1](http://arxiv.org/abs/2408.09178v1)][code-na]MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**|Changcheng Xiao et.al.||
