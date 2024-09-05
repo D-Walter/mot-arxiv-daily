@@ -18,6 +18,8 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-09-04**|**[[2409.02490v1](http://arxiv.org/abs/2409.02490v1)][**[code](https://github.com/Fsoft-AIC/TP-GMOT)**]TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.||
+|**2024-08-31**|**[[2409.00487v1](http://arxiv.org/abs/2409.00487v1)][code-na]TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.||
 |**2024-08-29**|**[[2408.16190v1](http://arxiv.org/abs/2408.16190v1)][code-na]Estimating Dynamic Flow Features in Groups of Tracked Objects**|Tanner D. Harms et.al.||
 |**2024-08-23**|**[[2408.13003v1](http://arxiv.org/abs/2408.13003v1)][**[code](https://github.com/vukasin-stanojevic/BoostTrack)**]BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al.||
 |**2024-09-04**|**[[2408.11571v2](http://arxiv.org/abs/2408.11571v2)][**[code](https://github.com/celltrackingchallenge/py-ctcmetrics)**]CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.||
