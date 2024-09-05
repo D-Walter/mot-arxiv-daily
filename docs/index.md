@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.09.04
+## Updated on 2024.09.05
 
 <details>
   <summary>Table of Contents</summary>
@@ -24,7 +24,7 @@ layout: default
 |:---------|:-----------------------|:---------|:------|
 |**2024-08-29**|**[[2408.16190v1](http://arxiv.org/abs/2408.16190v1)][code-na]Estimating Dynamic Flow Features in Groups of Tracked Objects**|Tanner D. Harms et.al.||
 |**2024-08-23**|**[[2408.13003v1](http://arxiv.org/abs/2408.13003v1)][**[code](https://github.com/vukasin-stanojevic/BoostTrack)**]BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al.||
-|**2024-08-21**|**[[2408.11571v1](http://arxiv.org/abs/2408.11571v1)][**[code](https://github.com/celltrackingchallenge/py-ctcmetrics)**]CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.||
+|**2024-09-04**|**[[2408.11571v2](http://arxiv.org/abs/2408.11571v2)][**[code](https://github.com/celltrackingchallenge/py-ctcmetrics)**]CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.||
 |**2024-08-17**|**[[2408.09191v1](http://arxiv.org/abs/2408.09191v1)][code-na]GSLAMOT: A Tracklet and Query Graph-based Simultaneous Locating, Mapping, and Multiple Object Tracking System**|Shuo Wang et.al.||
 |**2024-08-17**|**[[2408.09178v1](http://arxiv.org/abs/2408.09178v1)][code-na]MambaTrack: A Simple Baseline for Multiple Object Tracking with State Space Model**|Changcheng Xiao et.al.||
 |**2024-08-02**|**[[2408.00969v1](http://arxiv.org/abs/2408.00969v1)][**[code](https://github.com/wqw123wqw/pftrack)**]Visible-Thermal Multiple Object Tracking: Large-scale Video Dataset and Progressive Fusion Approach**|Yabin Zhu et.al.||
@@ -102,7 +102,7 @@ layout: default
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20240904>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240905>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
