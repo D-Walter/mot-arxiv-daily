@@ -9,7 +9,7 @@ layout: default
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.09.10
+## Updated on 2024.09.11
 
 <details>
   <summary>Table of Contents</summary>
@@ -22,8 +22,9 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-09-10**|**[[2409.06617v1](http://arxiv.org/abs/2409.06617v1)][**[code](https://github.com/emirhanbayar/fast-strongsort)**]When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|End to end|
 |**2024-09-04**|**[[2409.02490v1](http://arxiv.org/abs/2409.02490v1)][**[code](https://github.com/Fsoft-AIC/TP-GMOT)**]TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.||
-|**2024-08-31**|**[[2409.00487v1](http://arxiv.org/abs/2409.00487v1)][code-na]TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.||
+|**2024-09-10**|**[[2409.00487v2](http://arxiv.org/abs/2409.00487v2)][**[code](https://github.com/xavier-lin/trackssm)**]TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.||
 |**2024-08-29**|**[[2408.16190v1](http://arxiv.org/abs/2408.16190v1)][code-na]Estimating Dynamic Flow Features in Groups of Tracked Objects**|Tanner D. Harms et.al.||
 |**2024-08-23**|**[[2408.13003v1](http://arxiv.org/abs/2408.13003v1)][**[code](https://github.com/vukasin-stanojevic/BoostTrack)**]BoostTrack++: using tracklet information to detect more objects in multiple object tracking**|Vukašin Stanojević et.al.||
 |**2024-09-04**|**[[2408.11571v2](http://arxiv.org/abs/2408.11571v2)][**[code](https://github.com/celltrackingchallenge/py-ctcmetrics)**]CHOTA: A Higher Order Accuracy Metric for Cell Tracking**|Timo Kaiser et.al.||
@@ -104,7 +105,7 @@ layout: default
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20240910>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20240911>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
