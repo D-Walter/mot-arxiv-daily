@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-09-12**|**[[2409.07904v1](http://arxiv.org/abs/2409.07904v1)][code-na]FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking**|Rongzihan Song et.al.||
 |**2024-09-10**|**[[2409.06617v1](http://arxiv.org/abs/2409.06617v1)][**[code](https://github.com/emirhanbayar/fast-strongsort)**]When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|End to end|
 |**2024-09-04**|**[[2409.02490v1](http://arxiv.org/abs/2409.02490v1)][**[code](https://github.com/Fsoft-AIC/TP-GMOT)**]TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.||
 |**2024-09-10**|**[[2409.00487v2](http://arxiv.org/abs/2409.00487v2)][**[code](https://github.com/xavier-lin/trackssm)**]TrackSSM: A General Motion Predictor by State-Space Model**|Bin Hu et.al.||
