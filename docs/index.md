@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-09-17**|**[[2409.11235v1](http://arxiv.org/abs/2409.11235v1)][code-na]SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.||
+|**2024-09-17**|**[[2409.11234v1](http://arxiv.org/abs/2409.11234v1)][**[code](https://github.com/ydhcg-bobo/stcmot)**]STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.||
 |**2024-09-12**|**[[2409.07904v1](http://arxiv.org/abs/2409.07904v1)][code-na]FACT: Feature Adaptive Continual-learning Tracker for Multiple Object Tracking**|Rongzihan Song et.al.||
 |**2024-09-10**|**[[2409.06617v1](http://arxiv.org/abs/2409.06617v1)][**[code](https://github.com/emirhanbayar/fast-strongsort)**]When to Extract ReID Features: A Selective Approach for Improved Multiple Object Tracking**|Emirhan Bayar et.al.|End to end|
 |**2024-09-04**|**[[2409.02490v1](http://arxiv.org/abs/2409.02490v1)][**[code](https://github.com/Fsoft-AIC/TP-GMOT)**]TP-GMOT: Tracking Generic Multiple Object by Textual Prompt with Motion-Appearance Cost (MAC) SORT**|Duy Le Dinh Anh et.al.||
