@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2024-09-25**|**[[2409.17221v1](http://arxiv.org/abs/2409.17221v1)][code-na]Walker: Self-supervised Multiple Object Tracking by Walking on Temporal Appearance Graphs**|Mattia Segu et.al.||
 |**2024-09-25**|**[[2409.17025v1](http://arxiv.org/abs/2409.17025v1)][code-na]Automated Surgical Skill Assessment in Endoscopic Pituitary Surgery using Real-time Instrument Tracking on a High-fidelity Bench-top Phantom**|Adrito Das et.al.||
 |**2024-09-17**|**[[2409.11235v1](http://arxiv.org/abs/2409.11235v1)][**[code](https://github.com/siyuanliii/slack)**]SLAck: Semantic, Location, and Appearance Aware Open-Vocabulary Tracking**|Siyuan Li et.al.||
 |**2024-09-17**|**[[2409.11234v1](http://arxiv.org/abs/2409.11234v1)][**[code](https://github.com/ydhcg-bobo/stcmot)**]STCMOT: Spatio-Temporal Cohesion Learning for UAV-Based Multiple Object Tracking**|Jianbo Ma et.al.||
