@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-10-18**|**[[2410.14093v1](http://arxiv.org/abs/2410.14093v1)][code-na]Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.||
 |**2024-10-11**|**[[2410.09243v1](http://arxiv.org/abs/2410.09243v1)][code-na]Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking**|Duy Le Dinh Anh et.al.||
 |**2024-10-03**|**[[2410.02638v1](http://arxiv.org/abs/2410.02638v1)][**[code](https://github.com/fubel/stmc)**]Spatial-Temporal Multi-Cuts for Online Multiple-Camera Vehicle Tracking**|Fabian Herzog et.al.||
 |**2024-10-02**|**[[2410.01806v1](http://arxiv.org/abs/2410.01806v1)][code-na]Samba: Synchronized Set-of-Sequences Modeling for Multiple Object Tracking**|Mattia Segu et.al.||
