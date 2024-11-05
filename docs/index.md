@@ -22,6 +22,8 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-11-04**|**[[2411.02220v1](http://arxiv.org/abs/2411.02220v1)][code-na]SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.||
+|**2024-11-01**|**[[2411.00553v1](http://arxiv.org/abs/2411.00553v1)][code-na]Is Multiple Object Tracking a Matter of Specialization?**|Gianluca Mancusi et.al.|End to end|
 |**2024-10-20**|**[[2410.15518v1](http://arxiv.org/abs/2410.15518v1)][**[code](https://github.com/UARK-AICV/TrackGUI)**]TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.||
 |**2024-10-18**|**[[2410.14093v1](http://arxiv.org/abs/2410.14093v1)][code-na]Enhancing In-vehicle Multiple Object Tracking Systems with Embeddable Ising Machines**|Kosuke Tatsumura et.al.||
 |**2024-10-11**|**[[2410.09243v1](http://arxiv.org/abs/2410.09243v1)][code-na]Enhanced Kalman with Adaptive Appearance Motion SORT for Grounded Generic Multiple Object Tracking**|Duy Le Dinh Anh et.al.||
