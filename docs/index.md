@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2024-12-02**|**[[2412.01147v1](http://arxiv.org/abs/2412.01147v1)][code-na]A2VIS: Amodal-Aware Approach to Video Instance Segmentation**|Minh Tran et.al.||
 |**2024-11-20**|**[[2411.12943v1](http://arxiv.org/abs/2411.12943v1)][code-na]Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.||
 |**2024-11-04**|**[[2411.02220v1](http://arxiv.org/abs/2411.02220v1)][code-na]SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.||
 |**2024-11-01**|**[[2411.00553v1](http://arxiv.org/abs/2411.00553v1)][code-na]Is Multiple Object Tracking a Matter of Specialization?**|Gianluca Mancusi et.al.|End to end|
