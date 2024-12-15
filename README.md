@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2024.12.14
+## Updated on 2024.12.15
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2024-12-02**|**[[2412.01147v1](http://arxiv.org/abs/2412.01147v1)][code-na]A2VIS: Amodal-Aware Approach to Video Instance Segmentation**|Minh Tran et.al.||
-|**2024-11-20**|**[[2411.12943v1](http://arxiv.org/abs/2411.12943v1)][code-na]Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.||
+|**2024-11-20**|**[[2411.12943v1](http://arxiv.org/abs/2411.12943v1)][**[code](https://github.com/wassimea/thermalmot)**]Enhancing Thermal MOT: A Novel Box Association Method Leveraging Thermal Identity and Motion Similarity**|Wassim El Ahmar et.al.||
 |**2024-11-04**|**[[2411.02220v1](http://arxiv.org/abs/2411.02220v1)][code-na]SIRA: Scalable Inter-frame Relation and Association for Radar Perception**|Ryoma Yataka et.al.||
 |**2024-11-01**|**[[2411.00553v1](http://arxiv.org/abs/2411.00553v1)][code-na]Is Multiple Object Tracking a Matter of Specialization?**|Gianluca Mancusi et.al.|End to end|
 |**2024-10-20**|**[[2410.15518v1](http://arxiv.org/abs/2410.15518v1)][**[code](https://github.com/UARK-AICV/TrackGUI)**]TrackMe:A Simple and Effective Multiple Object Tracking Annotation Tool**|Thinh Phan et.al.||
@@ -115,7 +115,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20241214>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20241215>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
