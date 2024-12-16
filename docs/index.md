@@ -48,7 +48,7 @@ layout: default
 |**2024-08-05**|**[[2407.18288v2](http://arxiv.org/abs/2407.18288v2)][**[code](https://github.com/NissaFaber/Thesis_repo)**]Leveraging Foundation Models via Knowledge Distillation in Multi-Object Tracking: Distilling DINOv2 Features to FairMOT**|Niels G. Faber et.al.||
 |**2024-07-21**|**[[2407.15199v1](http://arxiv.org/abs/2407.15199v1)][**[code](https://github.com/cuppp1998/360_object_tracking)**]Multiple Object Detection and Tracking in Panoramic Videos for Cycling Safety Analysis**|Jingwei Guo et.al.||
 |**2024-07-17**|**[[2407.12614v1](http://arxiv.org/abs/2407.12614v1)][code-na]Strawberry detection and counting based on YOLOv7 pruning and information based tracking algorithm**|Shiyu Liu et.al.||
-|**2024-08-17**|**[[2407.10485v2](http://arxiv.org/abs/2407.10485v2)][code-na]MM-Tracker: Motion Mamba with Margin Loss for UAV-platform Multiple Object Tracking**|Mufeng Yao et.al.||
+|**2024-08-17**|**[[2407.10485v2](http://arxiv.org/abs/2407.10485v2)]**[code](https://github.com/yaomufeng/mmtracker)**MM-Tracker: Motion Mamba with Margin Loss for UAV-platform Multiple Object Tracking**|Mufeng Yao et.al.||
 |**2024-07-05**|**[[2407.04249v1](http://arxiv.org/abs/2407.04249v1)][code-na]FeatureSORT: Essential Features for Effective Tracking**|Hamidreza Hashempoor et.al.||
 |**2024-06-09**|**[[2406.05810v1](http://arxiv.org/abs/2406.05810v1)][code-na]ControlLoc: Physical-World Hijacking Attack on Visual Perception in Autonomous Driving**|Chen Ma et.al.||
 |**2024-07-19**|**[[2406.05800v2](http://arxiv.org/abs/2406.05800v2)][code-na]SlowPerception: Physical-World Latency Attack against Visual Perception in Autonomous Driving**|Chen Ma et.al.||
