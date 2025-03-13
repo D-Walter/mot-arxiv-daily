@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-03-12**|**[[2503.09449v1](http://arxiv.org/abs/2503.09449v1)][code-na]Fast computation of the TGOSPA metric for multiple target tracking via unbalanced optimal transport**|Viktor Nevelius Wernholm et.al.||
 |**2025-02-04**|**[[2502.01896v1](http://arxiv.org/abs/2502.01896v1)][code-na]INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy**|Nastaran Darabi et.al.||
 |**2024-12-14**|**[[2412.10861v1](http://arxiv.org/abs/2412.10861v1)][**[code](https://github.com/xuqingyu26/hgtmt)**]Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos**|Qingyu Xu et.al.||
 |**2024-12-02**|**[[2412.01147v1](http://arxiv.org/abs/2412.01147v1)][code-na]A2VIS: Amodal-Aware Approach to Video Instance Segmentation**|Minh Tran et.al.||
