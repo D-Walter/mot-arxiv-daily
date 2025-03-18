@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-03-16**|**[[2503.12562v1](http://arxiv.org/abs/2503.12562v1)][code-na]History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.||
 |**2025-03-13**|**[[2503.10616v1](http://arxiv.org/abs/2503.10616v1)][code-na]OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|End to end|
 |**2025-03-12**|**[[2503.09449v1](http://arxiv.org/abs/2503.09449v1)][code-na]Fast computation of the TGOSPA metric for multiple target tracking via unbalanced optimal transport**|Viktor Nevelius Wernholm et.al.||
 |**2025-02-04**|**[[2502.01896v1](http://arxiv.org/abs/2502.01896v1)][code-na]INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy**|Nastaran Darabi et.al.||
