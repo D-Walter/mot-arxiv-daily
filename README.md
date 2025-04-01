@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.03.31
+## Updated on 2025.04.01
 
 <details>
   <summary>Table of Contents</summary>
@@ -19,7 +19,7 @@
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
 |**2025-03-16**|**[[2503.12562v1](http://arxiv.org/abs/2503.12562v1)][code-na]History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.||
-|**2025-03-18**|**[[2503.10616v2](http://arxiv.org/abs/2503.10616v2)][**[code](https://github.com/jinyanglii/ovtr)**]OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|End to end|
+|**2025-03-30**|**[[2503.10616v3](http://arxiv.org/abs/2503.10616v3)][**[code](https://github.com/jinyanglii/ovtr)**]OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|End to end|
 |**2025-03-12**|**[[2503.09449v1](http://arxiv.org/abs/2503.09449v1)][code-na]Fast computation of the TGOSPA metric for multiple target tracking via unbalanced optimal transport**|Viktor Nevelius Wernholm et.al.||
 |**2025-02-04**|**[[2502.01896v1](http://arxiv.org/abs/2502.01896v1)][code-na]INTACT: Inducing Noise Tolerance through Adversarial Curriculum Training for LiDAR-based Safety-Critical Perception and Autonomy**|Nastaran Darabi et.al.||
 |**2024-12-14**|**[[2412.10861v1](http://arxiv.org/abs/2412.10861v1)][**[code](https://github.com/xuqingyu26/hgtmt)**]Heterogeneous Graph Transformer for Multiple Tiny Object Tracking in RGB-T Videos**|Qingyu Xu et.al.||
@@ -120,7 +120,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20250331>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250401>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
