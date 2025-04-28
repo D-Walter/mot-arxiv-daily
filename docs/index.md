@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-04-25**|**[[2504.18153v1](http://arxiv.org/abs/2504.18153v1)][code-na]Multiple Target Tracking Using a UAV Swarm in Maritime Environments**|Andreas Anastasiou et.al.||
 |**2025-04-12**|**[[2504.09361v1](http://arxiv.org/abs/2504.09361v1)][code-na]PapMOT: Exploring Adversarial Patch Attack against Multiple Object Tracking**|Jiahuan Long et.al.||
 |**2025-03-16**|**[[2503.12562v1](http://arxiv.org/abs/2503.12562v1)][code-na]History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.||
 |**2025-03-30**|**[[2503.10616v3](http://arxiv.org/abs/2503.10616v3)][**[code](https://github.com/jinyanglii/ovtr)**]OVTR: End-to-End Open-Vocabulary Multiple Object Tracking with Transformer**|Jinyang Li et.al.|End to end|
