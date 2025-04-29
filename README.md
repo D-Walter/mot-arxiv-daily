@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-04-28**|**[[2504.19719v1](http://arxiv.org/abs/2504.19719v1)][code-na]A computer vision method to estimate ventilation rate of Atlantic salmon in sea fish farms**|Lukas Folkman et.al.||
 |**2025-04-25**|**[[2504.18153v1](http://arxiv.org/abs/2504.18153v1)][code-na]Multiple Target Tracking Using a UAV Swarm in Maritime Environments**|Andreas Anastasiou et.al.||
 |**2025-04-12**|**[[2504.09361v1](http://arxiv.org/abs/2504.09361v1)][code-na]PapMOT: Exploring Adversarial Patch Attack against Multiple Object Tracking**|Jiahuan Long et.al.||
 |**2025-03-16**|**[[2503.12562v1](http://arxiv.org/abs/2503.12562v1)][code-na]History-Aware Transformation of ReID Features for Multiple Object Tracking**|Ruopeng Gao et.al.||
