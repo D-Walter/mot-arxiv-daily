@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-05-24**|**[[2505.18795v1](http://arxiv.org/abs/2505.18795v1)][code-na]Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks**|Qing Li et.al.||
 |**2025-05-22**|**[[2505.17201v1](http://arxiv.org/abs/2505.17201v1)][code-na]A Framework for Multi-View Multiple Object Tracking using Single-View Multi-Object Trackers on Fish Data**|Chaim Chai Elchik et.al.||
 |**2025-05-21**|**[[2505.16029v1](http://arxiv.org/abs/2505.16029v1)][code-na]Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection**|Shichao Li et.al.||
 |**2025-05-22**|**[[2505.12753v2](http://arxiv.org/abs/2505.12753v2)][code-na]LiDAR MOT-DETR: A LiDAR-based Two-Stage Transformer for 3D Multiple Object Tracking**|Martha Teiko Teye et.al.||
