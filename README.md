@@ -5,7 +5,7 @@
 
 [![Run Arxiv Papers Daily](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/cv-arxiv-daily.yml)
 [![Run Update Paper Links Weekly](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml/badge.svg)](https://github.com/D-Walter/mot-arxiv-daily/actions/workflows/update_paper_links.yml)
-## Updated on 2025.05.30
+## Updated on 2025.05.31
 
 <details>
   <summary>Table of Contents</summary>
@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-05-14**|**[[2505.22677v1](http://arxiv.org/abs/2505.22677v1)][code-na]Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking**|Jisu Kim et.al.||
 |**2025-05-24**|**[[2505.18795v1](http://arxiv.org/abs/2505.18795v1)][code-na]Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks**|Qing Li et.al.||
 |**2025-05-22**|**[[2505.17201v1](http://arxiv.org/abs/2505.17201v1)][code-na]A Framework for Multi-View Multiple Object Tracking using Single-View Multi-Object Trackers on Fish Data**|Chaim Chai Elchik et.al.||
 |**2025-05-21**|**[[2505.16029v1](http://arxiv.org/abs/2505.16029v1)][**[code](https://github.com/nicholasli1995/pcp-mv)**]Learning better representations for crowded pedestrians in offboard LiDAR-camera 3D tracking-by-detection**|Shichao Li et.al.||
@@ -127,7 +128,7 @@
 |**2022-11-11**|**[[2211.06001v1](http://arxiv.org/abs/2211.06001v1)][code-na]An Improved End-to-End Multi-Target Tracking Method Based on Transformer Self-Attention**|Yong Hong et.al.|End to end|
 |**2022-11-09**|**[[2211.05654v1](http://arxiv.org/abs/2211.05654v1)][code-na]Efficient Joint Detection and Multiple Object Tracking with Spatially Aware Transformer**|Siddharth Sagar Nijhawan et.al.||
 
-<p align=right>(<a href=#Updated-on-20250530>back to top</a>)</p>
+<p align=right>(<a href=#Updated-on-20250531>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/D-Walter/mot-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/D-Walter/mot-arxiv-daily/graphs/contributors
