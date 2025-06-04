@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-06-01**|**[[2506.00774v1](http://arxiv.org/abs/2506.00774v1)][code-na]Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking**|Milad Khanchi et.al.||
 |**2025-05-14**|**[[2505.22677v1](http://arxiv.org/abs/2505.22677v1)][code-na]Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking**|Jisu Kim et.al.||
 |**2025-05-24**|**[[2505.18795v1](http://arxiv.org/abs/2505.18795v1)][code-na]Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks**|Qing Li et.al.||
 |**2025-05-22**|**[[2505.17201v1](http://arxiv.org/abs/2505.17201v1)][code-na]A Framework for Multi-View Multiple Object Tracking using Single-View Multi-Object Trackers on Fish Data**|Chaim Chai Elchik et.al.||
