@@ -18,6 +18,7 @@
 
 |Publish Date|Title|Authors|Method Description|
 |---|---|---|---|
+|**2025-06-13**|**[[2506.12105v1](http://arxiv.org/abs/2506.12105v1)][code-na]Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline**|Haoxiang Chen et.al.||
 |**2025-06-01**|**[[2506.00774v1](http://arxiv.org/abs/2506.00774v1)][code-na]Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking**|Milad Khanchi et.al.||
 |**2025-05-14**|**[[2505.22677v1](http://arxiv.org/abs/2505.22677v1)][code-na]Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking**|Jisu Kim et.al.||
 |**2025-06-06**|**[[2505.18795v2](http://arxiv.org/abs/2505.18795v2)][code-na]Distributed Expectation Propagation for Multi-Object Tracking over Sensor Networks**|Qing Li et.al.||
