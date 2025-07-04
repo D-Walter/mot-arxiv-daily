@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-07-03**|**[[2507.02408v1](http://arxiv.org/abs/2507.02408v1)][code-na]A Novel Tuning Method for Real-time Multiple-Object Tracking Utilizing Thermal Sensor with Complexity Motion Pattern**|Duong Nguyen-Ngoc Tran et.al.||
 |**2025-06-13**|**[[2506.12105v1](http://arxiv.org/abs/2506.12105v1)][code-na]Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline**|Haoxiang Chen et.al.||
 |**2025-06-01**|**[[2506.00774v1](http://arxiv.org/abs/2506.00774v1)][code-na]Depth-Aware Scoring and Hierarchical Alignment for Multiple Object Tracking**|Milad Khanchi et.al.||
 |**2025-05-14**|**[[2505.22677v1](http://arxiv.org/abs/2505.22677v1)][code-na]Using Cross-Domain Detection Loss to Infer Multi-Scale Information for Improved Tiny Head Tracking**|Jisu Kim et.al.||
