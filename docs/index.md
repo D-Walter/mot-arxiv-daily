@@ -22,6 +22,7 @@ layout: default
 
 | Publish Date | Title | Authors | Method Description |
 |:---------|:-----------------------|:---------|:------|
+|**2025-07-12**|**[[2507.09095v1](http://arxiv.org/abs/2507.09095v1)][code-na]On the Fragility of Multimodal Perception to Temporal Misalignment in Autonomous Driving**|Md Hasan Shahriar et.al.||
 |**2025-07-08**|**[[2507.06400v1](http://arxiv.org/abs/2507.06400v1)][code-na]When Trackers Date Fish: A Benchmark and Framework for Underwater Multiple Fish Tracking**|Weiran Li et.al.||
 |**2025-07-03**|**[[2507.02408v1](http://arxiv.org/abs/2507.02408v1)][code-na]A Novel Tuning Method for Real-time Multiple-Object Tracking Utilizing Thermal Sensor with Complexity Motion Pattern**|Duong Nguyen-Ngoc Tran et.al.||
 |**2025-06-13**|**[[2506.12105v1](http://arxiv.org/abs/2506.12105v1)][code-na]Multiple Object Tracking in Video SAR: A Benchmark and Tracking Baseline**|Haoxiang Chen et.al.||
